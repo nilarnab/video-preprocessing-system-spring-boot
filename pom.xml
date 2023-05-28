@@ -34,6 +34,12 @@
 			<version>0.6.2</version>
 		</dependency>
 
+		<dependency>
+			<groupId>io.minio</groupId>
+			<artifactId>minio</artifactId>
+			<version>8.5.3</version>
+		</dependency>
+
 		<!-- https://mvnrepository.com/artifact/com.github.kokorin.jaffree/jaffree -->
 		<dependency>
 			<groupId>com.github.kokorin.jaffree</groupId>
